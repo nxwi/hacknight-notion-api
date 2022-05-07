@@ -71,21 +71,21 @@ npm start
     <td>1</td>
     <td>Naswih<br>(Team Lead)</td>
     <td><a href=https://github.com/nasw1h>nasw1h</a></td>
-    <td><a href=https://discordapp.com/users//></a></td>
+    <td><a href=https://discordapp.com/users/434640898605711360/>Naswih#8448</a></td>
   </tr>
 
 <tr>
     <td>2</td>
     <td></td>
     <td><a href=https://github.com/></a></td>
-    <td><a href=https://discordapp.com/users//></a></td>
+    <td><a href=https://discordapp.com/users/839167570934235207/>sreelakshmi#2147</a></td>
   </tr>
 
 <tr>
     <td>3</td>
     <td></td>
     <td><a href=https://github.com/></a></td>
-    <td><a href=https://discordapp.com/users//></a></td>
+    <td><a href=https://discordapp.com/users/812750524582592543/>Afna sherin#1124</a></td>
   </tr>
   
   <tr>
