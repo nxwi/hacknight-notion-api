@@ -77,14 +77,14 @@ npm start
 <tr>
     <td>2</td>
     <td>Sreelakshmi k</td>
-    <td><a href=https://github.com/Sreelakshmi54></a></td>
+    <td><a href=https://github.com/Sreelakshmi54>Sreelakshmi54</a></td>
     <td><a href=https://discordapp.com/users/839167570934235207/>sreelakshmi#2147</a></td>
   </tr>
 
 <tr>
     <td>3</td>
     <td>Afna Sherin</td>
-    <td><a href=https://github.com/afna34></a></td>
+    <td><a href=https://github.com/afna34>afna34</a></td>
     <td><a href=https://discordapp.com/users/812750524582592543/>Afna sherin#1124</a></td>
   </tr>
   
